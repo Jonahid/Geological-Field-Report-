@@ -1,4 +1,4 @@
-#<p align="center">
+<p align="center">
   <b>Geological Summary of Rangamati Area</b>
 </p>
 
