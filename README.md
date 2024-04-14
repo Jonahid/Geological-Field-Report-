@@ -1,6 +1,7 @@
-<p align="center">
-  <b>Geological Summary of Rangamati Area</b>
-</p>
+<div align="center">
+  <h1>Geological Summary of Rangamati Area</h1>
+  <!-- Add other content below this line -->
+</div>
 
 The Rangamati area, located in the southeastern part of Bangladesh, lies within the central portion of the eastern folded belt. The topography is characterized by irregular hillocks trending NNW-SSE and is densely vegetated.
 
